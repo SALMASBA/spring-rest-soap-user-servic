@@ -15,12 +15,17 @@ Tests possibles via Postman ou directement dans le navigateur.
 
 🗂️ Structure du projet
 model/User.java : définit l’entité User (id, firstName, lastName, email, role).
+
 repository/UserRepository.java : expose automatiquement le repository utilisateur via Spring Data REST.
+
 controller/UserController.java : contient des endpoints personnalisés (optionnel).
+
 config/LoadDatabase.java : initialise la base H2 avec quelques utilisateurs par défaut.
+
 SoapDataSpringCApplication.java : classe principale pour le démarrage de l’application.
 
 🏃‍♀️ Démarrage rapide
+
 1️⃣ Cloner le projet
 git clone https://github.com/SALMASBA/spring-rest-soap-user-servic
 cd spring-rest-soap-user-servic
