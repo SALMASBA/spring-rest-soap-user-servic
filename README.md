@@ -41,12 +41,15 @@ DELETE /users/{id} : supprime un utilisateur
 🧪 Exemples et démonstrations
 Structure du projet et logs de démarrage.
 ![image1](images/Capture d'écran 2025-11-01 112352.png)
-![image1](Capture-2025-11-01-112352.png)
-
 Requête POST pour ajouter un utilisateur (dans Postman).
 ![image2](Capture d'écran 2025-11-01 112628.png)
 Requête GET pour afficher la liste complète des utilisateurs.
 ![image2](Capture d'écran 2025-11-01 112647.png)
+
+
+![image1](images/Capture-ecran-2025-11-01-112352.png)
+![image2](images/Capture-ecran-2025-11-01-112628.png)
+![image3](images/Capture-ecran-2025-11-01-112647.png)
 
 🧰 Technologies utilisées
 
