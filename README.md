@@ -47,8 +47,8 @@ Requête GET pour afficher la liste complète des utilisateurs.
 ![image2](Capture d'écran 2025-11-01 112647.png)
 
 
-![image1](images/Capture-ecran-2025-11-01-112352.png)
-![image2](images/Capture-ecran-2025-11-01-112628.png)
+![image1](Capture-ecran-2025-11-01-112352.png)
+![image2](/Capture-ecran-2025-11-01-112628.png)
 ![image3](images/Capture-ecran-2025-11-01-112647.png)
 
 🧰 Technologies utilisées
